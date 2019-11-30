@@ -34,7 +34,7 @@ int reverseanswer(int data) // 1234
 
 		data=data/10;
 
-	}
+	}//
 	return rev;
 }
 
